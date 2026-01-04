@@ -1,4 +1,4 @@
-# 45 Fundamental Naive Bayes Interview Questions in 2025
+# 45 Fundamental Naive Bayes Interview Questions in 2026
 
 <div>
 <p align="center">
